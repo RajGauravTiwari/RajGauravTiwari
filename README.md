@@ -4,7 +4,7 @@
 🌟 I'm a passionate software developer, competitive programmer with a love for building impactful projects and solving real-world problems.  
 
 ### 💻 Coding Profiles  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Astox_69)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Raj_Gaurav_)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/profile/)  
 
 ### 🛠️ Technologies & Tools  
